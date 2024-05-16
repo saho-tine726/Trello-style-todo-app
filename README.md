@@ -1,7 +1,7 @@
-# exchange-forum
+# Trello-style-todo-app
 
 ## 概要
-交流掲示板風のアプリです。
+Trello風のtodoアプリです。
 
 ## 使用言語・ライブラリ・フレームワーク・ツール
 <p>
