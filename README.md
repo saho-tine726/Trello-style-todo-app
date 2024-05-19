@@ -10,7 +10,7 @@ Trello風のtodoアプリです。
 
 ## 解説・工夫した点など
 * デザインも自作
-* ドラック & ドロップ機能を追加(react-beautiful-dnd)
+* 各リスト（白背景範囲）・各全体のリスト（グレー背景範囲）ともに順番を入れ替えられる機能を追加(react-beautiful-dnd)
 
 ## デモサイト
 https://trello-style-todo-app.vercel.app/
